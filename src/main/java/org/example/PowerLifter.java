@@ -57,3 +57,4 @@ public class PowerLifter {
         this.p_muerto= p_muerto;
     }
 }
+//finish.
